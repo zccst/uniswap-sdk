@@ -1,14 +1,14 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "@okexchain/uniswap-sdk",
   "license": "MIT",
-  "version": "3.0.3",
+  "version": "0.0.1",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "",
   "keywords": [
     "uniswap",
     "ethereum"
